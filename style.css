@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	text-align: center;
+}
+
+form {
+	margin-top: 30vh;
+	text-align: center;
+}
+
+form input {
+	width: 400px;
+	height: 50px;
+	padding: 10px;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+form button {
+	margin: 0;
+	color: #fff;
+	background-image: linear-gradient(180deg, #2bbe60, #0f9d58);
+	border: none;
+	width: 400px;
+	height: 40px;
+	outline: none;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.img-div {
+	margin-top: 100px;
+}
